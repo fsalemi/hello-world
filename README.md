@@ -1,4 +1,28 @@
-# Introduction
+-   [SolTrans Fare Calculation
+    Errors](#soltrans-fare-calculation-errors){#toc-soltrans-fare-calculation-errors}
+    -   [By Farhad Salemi](#by-farhad-salemi){#toc-by-farhad-salemi}
+    -   [Introduction](#introduction){#toc-introduction}
+    -   [Problem
+        Identification](#problem-identification){#toc-problem-identification}
+    -   [Methodology](#methodology){#toc-methodology}
+    -   [Root Causes of Missing Route
+        Names](#root-causes-of-missing-route-names){#toc-root-causes-of-missing-route-names}
+    -   [Analysis and
+        Findings](#analysis-and-findings){#toc-analysis-and-findings}
+    -   [Financial Impact](#financial-impact){#toc-financial-impact}
+    -   [Route-Specific
+        Analysis](#route-specific-analysis){#toc-route-specific-analysis}
+    -   [Recommendations](#recommendations){#toc-recommendations}
+    -   [Further Research](#further-research){#toc-further-research}
+
+# SolTrans Fare Calculation Errors
+
+### By Farhad Salemi
+
+**\
+**
+
+## Introduction
 
 SolTrans employs a dual-fare system: a Regular Fare for standard routes
 and an Express Fare for express routes. Express fares are set at 2.5
@@ -7,7 +31,7 @@ the Clipper system relies on route names to correctly identify each
 transaction. Therefore, the presence of a valid route name is critical
 for proper fare assessment.
 
-# Problem Identification
+## Problem Identification
 
 An analysis of Clipper fare transactions for SolTrans revealed a
 recurring issue: unknown route names occasionally appear in fare
@@ -19,7 +43,7 @@ fare. While this issue affects transactions on both route types, the
 resulting revenue loss is borne exclusively by SolTrans due to the
 higher price point of express fares.
 
-# Methodology
+## Methodology
 
 To understand the root causes of these missing route names, we conducted
 a thorough analysis of SolTrans fare transaction data for November. This
@@ -43,7 +67,7 @@ analysis included:
 -   **Source of Failures:** Distributing failures between Clipper and
     Connexionz.
 
-# Root Causes of Missing Route Names
+## Root Causes of Missing Route Names
 
 Clipper receives route names from the Connexionz GPS equipment on buses
 during each transaction. Our analysis has identified several
@@ -91,7 +115,7 @@ contributing factors for the missing route names:
 **\
 **
 
-# Analysis and Findings
+## Analysis and Findings
 
 -   **Route Name Failures:** These graphs provide an overall view of the
     frequency of route name failures in month of November.
@@ -136,7 +160,7 @@ contributing factors for the missing route names:
 **\
 **
 
-# Financial Impact
+## Financial Impact
 
 -   **Revenue and Losses:** The following figure shows the Graph of
     SolTrans Revenue and Losses in November, including contributing
@@ -149,7 +173,7 @@ contributing factors for the missing route names:
 > *\*These loss estimates are conservative since losses for route 82
 > were treated as an express route.*
 
-# Route-Specific Analysis
+## Route-Specific Analysis
 
 -   **Fare Transactions per Route:** The following graph shows
     distribution of fare transactions per route, including missing route
@@ -158,7 +182,7 @@ contributing factors for the missing route names:
 
 > ![](./media/image10.png){width="5.960371828521435in" height="2.6in"}
 
-# Recommendations
+## Recommendations
 
 1.  **Connexionz System Improvement:** Implement strategies to minimize
     GPS and cellular connectivity issues and address the trip update
@@ -176,7 +200,7 @@ contributing factors for the missing route names:
     Connexionz, and Clipper is vital to identifying and resolving the
     fare calculation discrepancies.
 
-# Further Research
+## Further Research
 
 -   **Real-Time Monitoring:** Implementing real-time monitoring of the
     connection between the Clipper fare box and the Connexionz system
