@@ -128,7 +128,7 @@ contributing factors for the missing route names:
 -   **Route Name Failures by Each Cause:** These graphs provide a
     comprehensive view of the frequency of failures by each cause.
 
-<img src="media/image3.png" width="450"> <img src="media/image4.png" width="450"> 
+<img src="media/image3.png" width="400"> <img src="media/image4.png" width="400"> 
 
 
 
@@ -159,7 +159,7 @@ contributing factors for the missing route names:
     factors. This is a crucial figure that shows how the above failures
     translate to financial losses\*.
 
-<img src="media/image9.png" width="450"> 
+<img src="media/image9.png" width="400"> 
 
 
 > *\*These loss estimates are conservative since losses for route 82
