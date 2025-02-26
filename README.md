@@ -1,5 +1,5 @@
 -   [SolTrans Fare Calculation
-    Errors](#soltrans-fare-calculation-errors){#toc-soltrans-fare-calculation-errors}
+    Errors](#soltrans-fare-calculation-errors)
     -   [By Farhad Salemi](#by-farhad-salemi){#toc-by-farhad-salemi}
     -   [Introduction](#introduction){#toc-introduction}
     -   [Problem
@@ -9,7 +9,7 @@
         Names](#root-causes-of-missing-route-names){#toc-root-causes-of-missing-route-names}
     -   [Analysis and
         Findings](#analysis-and-findings){#toc-analysis-and-findings}
-    -   [Financial Impact](#financial-impact){#toc-financial-impact}
+    -   [Financial Impact](#financial-impact)
     -   [Route-Specific
         Analysis](#route-specific-analysis){#toc-route-specific-analysis}
     -   [Recommendations](#recommendations){#toc-recommendations}
