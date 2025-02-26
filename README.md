@@ -123,7 +123,7 @@ contributing factors for the missing route names:
 -   **Route Name Failures:** These graphs provide an overall view of the
     frequency of route name failures in month of November.
 
-<img src="media/image1.png" width="450"> <img src="media/image2.png" width="450"> 
+<img src="media/image1.png" width="400"> <img src="media/image2.png" width="400"> 
 
 -   **Route Name Failures by Each Cause:** These graphs provide a
     comprehensive view of the frequency of failures by each cause.
