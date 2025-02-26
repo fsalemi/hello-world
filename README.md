@@ -1,6 +1,7 @@
-# <center>SolTrans Fare Calculation Errors
-
-<center> ### By Farhad Salemi
+<div align="center">
+  <h1>SolTrans Fare Calculation Errors</h1>
+  <h3>By Farhad Salemi</h3>
+</div>
 
 # Contents 
 
