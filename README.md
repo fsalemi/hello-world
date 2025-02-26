@@ -1,23 +1,26 @@
--   [SolTrans Fare Calculation
-    Errors](#soltrans-fare-calculation-errors)
-    -   [By Farhad Salemi](#by-farhad-salemi){#toc-by-farhad-salemi}
-    -   [Introduction](#introduction){#toc-introduction}
-    -   [Problem
-        Identification](#problem-identification){#toc-problem-identification}
-    -   [Methodology](#methodology){#toc-methodology}
-    -   [Root Causes of Missing Route
-        Names](#root-causes-of-missing-route-names){#toc-root-causes-of-missing-route-names}
-    -   [Analysis and
-        Findings](#analysis-and-findings){#toc-analysis-and-findings}
-    -   [Financial Impact](#financial-impact)
-    -   [Route-Specific
-        Analysis](#route-specific-analysis){#toc-route-specific-analysis}
-    -   [Recommendations](#recommendations){#toc-recommendations}
-    -   [Further Research](#further-research){#toc-further-research}
+# <center>SolTrans Fare Calculation Errors
 
-# SolTrans Fare Calculation Errors
+<center> ### By Farhad Salemi
 
-### By Farhad Salemi
+# Contents 
+
+- [Introduction](#introduction)
+
+- [Problem Identification](#problem-identification)
+
+- [Methodology](#methodology)
+
+- [Root Causes of Missing Route Names](#root-causes-of-missing-route-names)
+
+- [Analysis and Findings](#analysis-and-findings)
+
+- [Financial Impact](#financial-impact)
+
+- [Route-Specific Analysis](#route-specific-analysis)
+
+- [Recommendations](#recommendations)
+
+- [Further Research](#further-research)
 
 **\
 **
