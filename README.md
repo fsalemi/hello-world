@@ -1,7 +1,8 @@
 <div align="center">
-  <h1>SolTrans Fare Calculation Errors</h1>
-  <h3>By Farhad Salemi</h3>
+<h1> SolTrans Fare Calculation Errors </h1>
+  <h3> By Farhad Salemi </h3>
 </div>
+
 
 # Contents 
 
@@ -23,8 +24,7 @@
 
 - [Further Research](#further-research)
 
-**\
-**
+
 
 ## Introduction
 
@@ -116,53 +116,41 @@ contributing factors for the missing route names:
     -   **Recommendation:** A joint investigation by Connexionz and
         Clipper is needed to identify and resolve the underlying issues.
 
-**\
-**
+
 
 ## Analysis and Findings
 
 -   **Route Name Failures:** These graphs provide an overall view of the
     frequency of route name failures in month of November.
 
-> ![](./media/image1.png){width="3.0260870516185476in"
-> height="3.0260870516185476in"}![](./media/image2.png){width="3.0608694225721784in"
-> height="3.0608694225721784in"}
+<img src="media/image1.png" width="450"> <img src="media/image2.png" width="450"> 
 
 -   **Route Name Failures by Each Cause:** These graphs provide a
     comprehensive view of the frequency of failures by each cause.
 
-> ![](./media/image3.png){width="3.0782600612423447in"
-> height="2.693477690288714in"}![](./media/image4.png){width="2.8782305336832894in"
-> height="2.8782305336832894in"}
+<img src="media/image3.png" width="450"> <img src="media/image4.png" width="450"> 
 
-**\
-**
+
 
 -   **Hardware-Related Issues:** This analysis is essential to identify
     buses with recurring issues so that appropriate actions can be
     taken.
 
-> ![](./media/image5.png){width="6.5in" height="2.527382983377078in"}
+<img src="media/image5.png" width="900"> 
 
 -   **Express Bus Failures:** This graph further highlights the impact
     of failures on express buses.
 
-> ![](./media/image6.png){width="6.5in" height="3.4055653980752405in"}
+<img src="media/image6.png" width="900"> 
 
-**\
-**
+
 
 -   **Clipper vs. Connexionz Failures:** This separation helps identify
     areas of accountability and needed changes.
 
-> ![](./media/image7.png){width="6.3956517935258095in"
-> height="3.5531397637795274in"}
->
-> ![](./media/image8.png){width="6.438369422572179in"
-> height="3.5768722659667542in"}
+<img src="media/image7.png" width="900"> <img src="media/image8.png" width="900"> 
 
-**\
-**
+
 
 ## Financial Impact
 
@@ -171,9 +159,9 @@ contributing factors for the missing route names:
     factors. This is a crucial figure that shows how the above failures
     translate to financial losses\*.
 
-> ![](./media/image9.png){width="3.9304352580927384in"
-> height="3.9304352580927384in"}
->
+<img src="media/image9.png" width="450"> 
+
+
 > *\*These loss estimates are conservative since losses for route 82
 > were treated as an express route.*
 
@@ -184,7 +172,7 @@ contributing factors for the missing route names:
     cases and their reasons. This helps understand the performance on
     the system by individual route.
 
-> ![](./media/image10.png){width="5.960371828521435in" height="2.6in"}
+<img src="media/image10.png" width="900"> 
 
 ## Recommendations
 
