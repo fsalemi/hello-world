@@ -1,6 +1,7 @@
+<!--
 <div align="center">
 <h1> SolTrans Fare Calculation Errors </h1>
-  <h3> By Farhad Salemi </h3>
+<h3> By Farhad Salemi </h3>
 </div>
 
 
@@ -202,3 +203,4 @@ contributing factors for the missing route names:
     will facilitate more efficient problem diagnosis and resolution.
     Despite multiple efforts to collect logs from Connexionz\'s Medius
     system and MQTT box, we were unable to obtain the required logs.
+-->
